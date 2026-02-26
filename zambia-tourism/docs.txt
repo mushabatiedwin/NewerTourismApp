@@ -1,1 +1,8 @@
 python app.py
+
+
+ zambia-tourism/
+   ├── app.py              
+   ├── requirements.txt    
+   └── public/
+       └── index.html  
